@@ -58,7 +58,7 @@ EOT
 * install xcode
 	* accept terms: `sudo xcodebuild -license`
 	* install command line tools`xcode-select --install`
-* install some good developer fonts: [inconsolata font](https://fonts.google.com/specimen/Inconsolata) [fira font](https://github.com/tonsky/FiraCode)
+* install some good developer fonts: [inconsolata font](https://fonts.google.com/specimen/Inconsolata)  and [fira font](https://github.com/tonsky/FiraCode)
 * install homebrew
 
 ```
