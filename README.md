@@ -232,7 +232,6 @@ brew install ranger
 brew install ttygif
 brew install youtube-dl
 brew tap heroku/brew && brew install heroku
-brew tap netlify/netlifyctl && brew install netlifyctl
 
 mkdir -P ~/.config/ranger
 cat <<'EOT' > ~/.config/ranger/rc.conf
