@@ -216,6 +216,7 @@ copy pem key and bundle to `~/.nvm/versions/node/<node version>/lib/node_modules
 #### other command line tools
 
 ```
+npm install -g nodemon
 npm install -g is-up-cli
 npm install -g pageres-cli
 npm install -g surge
@@ -225,6 +226,8 @@ npm install -g npm-home
 npm install -g caniuse-cmd
 npm install -g imgur-uploader-cli
 npm install -g svgo
+brew install git
+brew install git-gui
 brew install httpie
 brew install icdiff
 brew install pandoc
